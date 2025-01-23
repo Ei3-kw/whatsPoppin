@@ -10,7 +10,7 @@
 
 ## View towards the back w/ Rear door open
 
-## side window view
+## Side window view
 - With or without passengers? i kinda like the view on its own with window frame idk
 
 ## View from top of the van (op)
