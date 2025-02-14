@@ -1,4 +1,9 @@
 # Schedule
+
+![route](medias/routes/0.png)
+*Sydney is implied*
+
+
 ## *Feb 22nd night*
 - (Ella) arrives in Melb
 - (Moritz) Confirms location
@@ -22,9 +27,11 @@
 - sleep ig till sunset (7.40pm)
 - check bioluminescence (fingerscrossed)
 - drive to Kiama (1h)
-- Sea cave at Cathedral Rocks (low tide 1am) (TODO - figure out its location & how to reach)
-	- sunrise in the cave?
-	- guide - https://mitchgreenphotos.com/articles/best-seascape-photography-locations-in-kiama-nsw-cathedral-rocks-bombo-quarry
+- Sea cave at [Cathedral Rocks](https://guides.apple.com/?ug=CglOZXcgR3VpZGUSXxozMTI2IE5vcnRoIEtpYW1hIERyLCBLaWFtYSBEb3ducyBOU1cgMjUzMywgQXVzdHJhbGlhIhIJKkGM0edRQcAR5GDdplHbYkAqFENhdGhlZHJhbCBSb2NrcyBDYXZl) (low tide 1am) (TODO - double check tide)
+	- sunrise in the cave if possible
+	- guides
+		- https://mitchgreenphotos.com/articles/best-seascape-photography-locations-in-kiama-nsw-cathedral-rocks-bombo-quarry
+		- https://nswfootsteps.com.au/cathedral-rocks-kiama-nsw/
 
 ## *Feb 26th*
 - drive to [Seacliff Bridge](https://maps.apple.com/?address=Lawrence%20Hargrave%20Drive,%20Coalcliff%20NSW%202508,%20Australia&auid=16683983876913873608&ll=-34.241650,150.978740&lsp=9902&q=Seacliff%20Drive) (1h)
