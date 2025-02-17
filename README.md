@@ -6,11 +6,10 @@
 ## *Feb 22nd night*
 - (Ella) arrives in Melb
 - (Ella) catch up with Emma
-- (Moritz) Confirms location
-- (Ella) drives to Mt Hotham (5h)
+- Pick up Moritz
+- drive to [Mt Hotham](https://maps.apple.com/?address=3052%20Great%20Alpine%20Rd,%20Hotham%20Heights%20VIC%203741,%20Australia&ll=-36.976181,147.121899&q=Dropped%20Pin) (5h)
 
 ## *Feb 23rd*
-- Meet up around [Mt Hotham](https://maps.apple.com/?address=3052%20Great%20Alpine%20Rd,%20Hotham%20Heights%20VIC%203741,%20Australia&ll=-36.976181,147.121899&q=Dropped%20Pin)
 - Day Hike Mt Hotham
 - drive to somewhere btwn Mt Hotham & Canberra (3h)
 - **TODO** figure out where to stay
