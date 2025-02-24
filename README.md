@@ -90,7 +90,9 @@
 # Expenses
 ## Diesel
 - 80$ (Moritzio)
+- $80 (MoritzIO)
 ## Food
+- $27 (MoritzIO)
 
 ## Stay
 
