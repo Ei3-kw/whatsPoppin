@@ -94,6 +94,7 @@
 - $80
 ## Food
 - $32 (MoritzIO)
+- $27
 
 ## Stay
 
