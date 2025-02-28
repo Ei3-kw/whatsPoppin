@@ -93,6 +93,7 @@
 - $80 (MoritzIO)
 - $80
 - $89
+- $70
 ## Food
 - $32 (MoritzIO)
 - $27
