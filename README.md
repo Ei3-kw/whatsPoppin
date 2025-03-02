@@ -1,4 +1,4 @@
-> give back SD card to Ella 
+> give Ella a kiss 🩷
 
 # Schedule
 
