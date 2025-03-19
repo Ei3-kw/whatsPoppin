@@ -11,10 +11,20 @@
             "id": "c9d1df7c3dbe0ecb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "van-life/Todo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Todo"
             }
           }
         ]
@@ -164,44 +174,44 @@
   },
   "active": "c9d1df7c3dbe0ecb",
   "lastOpenFiles": [
-    "vanLife/README.md",
-    "vanLife",
-    "SA/README.md",
-    "SA",
+    "van-life/The Idea.md",
+    "van-life/Todo.md",
+    "Photos.md",
+    "movies.md",
+    "south-america/README.md",
+    "Melb2Bris/videos/Mac/output2.mp4",
+    "Melb2Bris/videos/Mac/output.mp4",
+    "trips/melbourne-to-brisbane/Melbourne to Brisbane.md",
+    "trips/melbourne-to-brisbane/README.md",
+    "Melb2Bris/README.md",
+    "trips/south-america/South America.md",
+    "trips/south-america",
+    "trips/melbourne-to-brisbane/videos/README.md",
+    "trips/melbourne-to-brisbane/videos/Mac/Screen Recording 2025-02-28 at 12.38.53.mov",
+    "trips/melbourne-to-brisbane/videos/Mac",
+    "trips/melbourne-to-brisbane/videos",
+    "trips/melbourne-to-brisbane/routes/2.png",
+    "trips/melbourne-to-brisbane/routes/0.png",
+    "trips/melbourne-to-brisbane/places/README.md",
+    "trips/melbourne-to-brisbane/routes",
+    "trips/melbourne-to-brisbane/places",
+    "trips/melbourne-to-brisbane",
+    "trips",
     "Melb2Bris/videos/README.md",
-    "Melb2Bris/videos/Mac/Screen Recording 2025-02-28 at 12.38.53.mov",
-    "Melb2Bris/videos/Mac",
-    "Melb2Bris/videos",
     "Melb2Bris/places/README.md",
-    "Melb2Bris/places",
     "Melb2Bris/medias/sony/wallArt/DSC04507.jpg",
     "Melb2Bris/medias/sony/wallArt/DSC04505.jpg",
     "Melb2Bris/medias/sony/wallArt/DSC04492.jpg",
     "Melb2Bris/medias/sony/wallArt/DSC04491.jpg",
     "Melb2Bris/medias/sony/wallArt/DSC04490.jpg",
-    "Melb2Bris/medias/sony/wallArt",
-    "Melb2Bris/medias/sony/siloPortland/stars/compressed.MOV",
-    "Melb2Bris/medias/sony/siloPortland/stars",
     "Melb2Bris/medias/sony/siloPortland/DSC04487.jpg",
-    "Melb2Bris/medias/sony/siloPortland",
     "Melb2Bris/medias/sony/lakeHume/DSC03855.jpg",
     "Melb2Bris/medias/sony/lakeHume/DSC03854-Enhanced-NR-Pano.jpg",
-    "Melb2Bris/medias/sony/lakeHume/DSC03584-Enhanced-NR-Edit.jpg",
-    "Melb2Bris/medias/sony/lakeHume/DSC03582-Enhanced-NR.jpg",
     "Melb2Bris/medias/README.md",
-    "Melb2Bris/README.md",
     "videos/README.md",
     "places/README.md",
     "medias/README.md",
     "README.md",
-    "Photos.md",
-    "van.md",
-    "trips/melbourne-to-brisbane/Melbourne to Brisbane.md",
-    "trips/south-america/South America.md",
-    "movies.md",
-    "trips/melbourne-to-brisbane/README.md",
-    "Movies.sheet.md",
-    "trips/melbourne-to-brisbane/places/README.md",
-    "trips/melbourne-to-brisbane/videos/README.md"
+    "Movies.sheet.md"
   ]
 }
