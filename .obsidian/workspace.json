@@ -11,20 +11,14 @@
             "id": "c9d1df7c3dbe0ecb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "van-life/Todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Photos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Todo"
+              "icon": "lucide-file",
+              "title": "Photos"
             }
           }
         ]
@@ -172,10 +166,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "c9d1df7c3dbe0ecb",
+  "active": "f605fb75717c15b4",
   "lastOpenFiles": [
-    "van-life/The Idea.md",
     "van-life/Todo.md",
+    "van-life/The Idea.md",
     "Photos.md",
     "movies.md",
     "south-america/README.md",
