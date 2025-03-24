@@ -2,7 +2,7 @@
 
 # Schedule
 
-![route](medias/routes/0.png)
+![route](./routes/0.png)
 *Sydney is implied*
 
 ## *Feb 22nd night*
