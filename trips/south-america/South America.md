@@ -20,14 +20,24 @@
 
 ## Candle on Mt for Bday
 
+## Couchsurfing?
+- https://www.couchsurfing.com/people/roland.vargas
+- https://www.couchsurfing.com/users/1010577
+- https://www.couchsurfing.com/people/ninoclimber
+- https://www.couchsurfing.com/people/psicomagia
+- 
+
 # Schedule
 
 roughly Jun 23rd -> Jul 26th
 
 # TOGO
 ## Peru
-- Scared Valley & (maybe) cliff hotel
-- [Lost Cities](https://vivaexpeditions.com/blog/the-best-lost-cities-of-peru-that-arent-machu-picchu)
+- Sacred Valley
+	- (maybe) cliff hotel
+	- Morray Terraces
+	- Salt Mine of Maras 
+- [Lost Cities](https://vivaexpeditions.com/blog/the-best-lost-cities-of-peru-that-arent-machu-picchu) / Inca trails
 	 - Machu Picchu
 	 - Chan Chan
 	 - Choquequirao
@@ -37,8 +47,16 @@ roughly Jun 23rd -> Jul 26th
 - Amazon
 - Huascarán National Park
 	 - [Laguna 69 Trail](https://www.alltrails.com/trail/peru/ancash/sendero-laguna-69)
-	 - [Santa Cruz Trek](https://tobinka.com/santa-cruz-trek-self-guided/) 
-
+	 - [Santa Cruz Trek](https://tobinka.com/santa-cruz-trek-self-guided/)
+	 - Lake Parón
+- [Rainbow Mt - Vinicunca](https://maps.apple.com/?address=Cusco,%20084%20Departamento%20de%20Cusco,%20Peru&auid=9462443254658053879&ll=-13.869507,-71.302986&lsp=9902&q=Rainbow%20Mountain%20Cusco)
+- Lake titicaca? it's on the border tho
+- Cusco - capical of Inca Empire
+	- Saksaywaman ruins
+	- Coricancha ruins
+- Lima
+	- Inca market 
+	   
 ## Bus?
 [Cusco -> La paz](https://www.ticketsbolivia.com/travel-by-bus/cusco-la_paz.php)
 	 - 
@@ -51,9 +69,8 @@ roughly Jun 23rd -> Jul 26th
  	- [Huayna Potosi](https://www.torntackies.com/huayna-potosi-climb/)
  	- > would be so sick!! I might have skill issue tho...
 - [Red Lagoon - Laguna Colorada]([https://maps.apple.com/?address=Laguna%20Colorada,%20Bolivia&auid=15405890189764863559&ll=-14.808099,-64.971853&lsp=6489&q=Laguna%20Colorada](https://en.wikipedia.org/wiki/Laguna_Colorada))
-- [Rainbow Mt - Vinicunca](https://maps.apple.com/?address=Cusco,%20084%20Departamento%20de%20Cusco,%20Peru&auid=9462443254658053879&ll=-13.869507,-71.302986&lsp=9902&q=Rainbow%20Mountain%20Cusco)
 
-## North Peru?
+## North Chile?
 - [Atacama Desert](https://maps.apple.com/?address=Chile&auid=13640263165124038263&ll=-24.102116,-69.874556&lsp=9902&q=Atacama%20Desert)
 
 # Expenses
