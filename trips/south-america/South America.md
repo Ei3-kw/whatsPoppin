@@ -26,7 +26,6 @@
 - https://www.couchsurfing.com/users/1010577
 - https://www.couchsurfing.com/people/ninoclimber
 - https://www.couchsurfing.com/people/psicomagia
-- 
 
 ## International Driving Permit (IDP)
 
@@ -70,20 +69,19 @@ roughly Jun 23rd -> Jul 26th
 ## Bolivia
 - Uyuni Salt Flat
  	- Isla Incahuasi
- 	- 
 - La Paz (cable carts xD)
  	- [Austria Peak](https://www.alltrails.com/trail/bolivia/la-paz/pico-austria)
  	- [Huayna Potosi](https://www.torntackies.com/huayna-potosi-climb/)
  	- > would be so sick!! I might have skill issue tho...
+ 	- > Me too...
 - [Red Lagoon - Laguna Colorada]([https://maps.apple.com/?address=Laguna%20Colorada,%20Bolivia&auid=15405890189764863559&ll=-14.808099,-64.971853&lsp=6489&q=Laguna%20Colorada](https://en.wikipedia.org/wiki/Laguna_Colorada))
 - [Green Lagoon - Laguna Verde](https://en.wikipedia.org/wiki/Laguna_Verde_(Bolivia))
-
 ## North Chile?
 - [Atacama Desert](https://maps.apple.com/?address=Chile&auid=13640263165124038263&ll=-24.102116,-69.874556&lsp=9902&q=Atacama%20Desert)
 
-## Ar
+## Argentina
 - [Salta](https://maps.apple.com/?address=Salta,%20Salta,%20Argentina&auid=6379015577663010946&ll=-24.787564,-65.409455&lsp=7618&q=Salta)
-
+Argentina visa is fucked tho
 # Expenses
 ## Fuel
 
